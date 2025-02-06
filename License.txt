@@ -19,9 +19,9 @@ Modifications to the Software are permitted under this license, provided that th
 
 5. Prohibited Uses
 The following uses are explicitly prohibited:
-Commercial applications or deployment, including integration into for-profit services or products.
-Use by any for-profit entity, including, but not limited to, corporations and private companies.
-Distribution or sublicensing of the Software for financial gain or commercial benefit.
+*Commercial applications or deployment, including integration into for-profit services or products.
+*Use by any for-profit entity, including, but not limited to, corporations and private companies.
+*Distribution or sublicensing of the Software for financial gain or commercial benefit.
 
 6. Disclaimer of Warranty
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
